@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muthuyuvaraj
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Full Stack
+- 👀 I’m interested in learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me muthuyuvarajm@gmail.com
 
